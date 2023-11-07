@@ -1,0 +1,1 @@
+ /home/n3on/Documents/Projects/Fuel-it/FUELIT/test1/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /home/n3on/Documents/Projects/Fuel-it/FUELIT/test1/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /home/n3on/Documents/Projects/Fuel-it/FUELIT/test1/l10n.yaml /home/n3on/Documents/Projects/Fuel-it/FUELIT/test1/lib/src/localization/app_en.arb
